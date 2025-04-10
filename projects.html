@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Raghav Kaushik - Projects</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="projects.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="logo" onclick="location.reload();">RK</div>
+        <ul class="nav-links">
+            <li style="--i: 0;"><a href="about.html">About</a></li>
+            <li style="--i: 1;"><a href="experience.html">Experience</a></li>
+            <li style="--i: 2;"><a href="skills.html">Skills</a></li> 
+            <li style="--i: 3;"><a href="projects.html">Projects</a></li>
+            <li style="--i: 4;"><a href="contact.html">Contact</a></li>
+            <li style="--i: 5;"><a href="C:\Users\Koushik\Desktop\thepdf.pdf" class="resume-btn" target="_blank">Resume</a></li>
+        </ul>
+    </nav>
+
+    <main class="main-content">
+        <section id="projects" class="projects-section">
+            <div class="projects-container">
+                <h2>Projects</h2>
+
+                <div class="project-card" onclick="showSourceCode('lane-detection-code')">
+                    <h3>Lane Detection for Autonomous Vehicles</h3>
+                    <p>This project uses computer vision techniques to identify and track lane markings in real-time video streams, enhancing safety and efficiency in autonomous vehicles.</p>
+                </div>
+
+                <div class="project-card" onclick="showSourceCode('emotion-recognition-code')">
+                    <h3>Emotion Recognition</h3>
+                    <p>Utilizing machine learning and deep learning techniques, this project recognizes emotions from facial expressions and speech, enabling more empathetic human-computer interactions.</p>
+                </div>
+
+                <div class="project-card" onclick="showSourceCode('voice-chatbot-code')">
+                    <h3>Voice Chatbot</h3>
+                    <p>A conversational AI system that uses speech recognition and natural language processing to provide interactive voice responses, enhancing user experience with voice-enabled interfaces.</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <div id="popup" class="popup">
+        <div class="popup-content">
+            <span class="close-btn" onclick="closePopup()">&times;</span>
+            <div class="scrollable-content">
+                <pre id="source-code"></pre> 
+            </div>
+        </div>
+    </div>
+
+    <ul class="social-sidebar">
+        <li style="--i: 0;"><a href="https://github.com/Raghavcommercialwinner" target="_blank">GitHub</a></li>
+        <li style="--i: 1;"><a href="https://www.linkedin.com/in/raghav-k-490b26280/" target="_blank">LinkedIn</a></li>
+        <li style="--i: 2;"><a href="https://leetcode.com/u/FlawlessFlash/" target="_blank">LeetCode</a></li>
+    </ul>
+
+    <div class="email-sidebar">
+        <a href="mailto:raghav.kaushik2023@vitstudent.ac.in">raghav.kaushik2023@vitstudent.ac.in</a>
+    </div>
+
+    <footer class="footer">
+        <p>&copy; 2025 Raghav Kaushik. All rights reserved.</p>
+    
+        <div>
+            <a href="https://github.com/" target="_blank">GitHub</a>
+            <a href="https://linkedin.com/" target="_blank">LinkedIn</a>
+            <a href="https://leetcode.com/" target="_blank">LeetCode</a>
+        </div>
+        <a href="mailto:raghav.kaushik2023@vitstudent.ac.in">raghav.kaushik2023@vitstudent.ac.in</a>
+    </footer>
+    <script src="projects.js"></script>
+</body>
+</html>
