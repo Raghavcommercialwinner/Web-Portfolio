@@ -1,7 +1,12 @@
-🌐 Web-Portfolio
-A sleek, animated personal portfolio website built with HTML, CSS, and JavaScript. This project showcases skills, experience, and personal projects using an interactive and modern UI.
+<h1 align="center">🌐 Web-Portfolio</h1>
 
-📁 Folder Structure
+<p align="center">A sleek, animated personal portfolio website built with HTML, CSS, and JavaScript.</p>
+
+<hr>
+
+<h2>📁 Folder Structure</h2>
+
+<pre>
 Web-Portfolio/
 │
 ├── about.html             # About section page
@@ -28,54 +33,61 @@ Web-Portfolio/
 │
 ├── images/                # Asset folder for all icons and visuals
 └── README.md              # This file
-✨ Features
-🔥 Dark theme with smooth animations
+</pre>
 
-💡 Matrix-style background with falling code effect
+<h2>✨ Features</h2>
 
-🛠️ Skills section with clickable icons and detailed knowledge pop-ups
+<ul>
+  <li>🔥 <strong>Dark theme</strong> with smooth animations</li>
+  <li>💡 <strong>Matrix-style</strong> background with falling code effect</li>
+  <li>🛠️ <strong>Skills section</strong> with clickable icons and detailed knowledge pop-ups</li>
+  <li>📜 <strong>Experience section</strong> featuring internships and certificates</li>
+  <li>🚀 <strong>Projects section</strong> with source code access via pop-ups</li>
+  <li>📩 <strong>Contact page</strong> to get in touch</li>
+  <li>⚙️ <strong>Custom JavaScript</strong> animations and interactions</li>
+</ul>
 
-📜 Experience section featuring internships and certificates
+<h2>🛠️ Technologies Used</h2>
 
-🚀 Projects section with source code access via pop-ups
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>JavaScript (Vanilla JS)</li>
+  <li>OpenCV (via projects)</li>
+  <li>YOLO (via projects)</li>
+  <li>Python (for project backends - referenced)</li>
+</ul>
 
-📩 Contact page to get in touch
+<h2>📸 Screenshots</h2>
 
-⚙️ Custom JavaScript animations and interactions
-
-🛠️ Technologies Used
-HTML5
-
-CSS3
-
-JavaScript (Vanilla JS)
-
-OpenCV (via projects)
-
-YOLO (via projects)
-
-Python (for project backends - referenced)
-
-📸 Screenshots
+<blockquote>
+Add your screenshots here (e.g., home page, skills pop-up, project modal)
 ![Screenshot 2025-04-10 194653](https://github.com/user-attachments/assets/2d3b7f54-2349-4e4c-9792-3b21c289842b)
 ![Screenshot 2025-04-10 194838](https://github.com/user-attachments/assets/547d2e8e-65a2-4cf2-9922-b0a828a03040)
 ![Screenshot 2025-04-10 194920](https://github.com/user-attachments/assets/785e5ba0-80b7-4864-afb6-6b5ffcb56e55)
 ![Screenshot 2025-04-10 194952](https://github.com/user-attachments/assets/ee5440ba-548f-414b-963d-a65ba5f06605)
 ![Screenshot 2025-04-10 195018](https://github.com/user-attachments/assets/7a949c37-aec9-4664-83f4-b6cc59a4033e)
+</blockquote>
 
-🧠 Inspiration
+<h2>🧠 Inspiration</h2>
+
+<p>
 Built to serve as a modern, responsive, and interactive portfolio that reflects both frontend finesse and backend knowledge, especially in AI/ML domains.
+</p>
 
-🚀 How to Run
-Clone the repository
+<h2>🚀 How to Run</h2>
 
+<ol>
+  <li>Clone the repository</li>
+</ol>
+
+<pre>
 git clone https://github.com/your-username/Web-Portfolio.git
 cd Web-Portfolio
-Open about.html in your browser
-All other pages are accessible through the navigation.
+</pre>
 
-Note: This portfolio is designed to run locally. Make sure paths to your local project source files and certificates are correct.
+<ol start="2">
+  <li>Open <code>about.html</code> in your browser</li>
+</ol>
 
-📜 License
-This project is licensed under the MIT License.
-
+<p><strong>Note:</strong> This portfolio is designed to run locally. Make sure paths to your local project source files and certificates are correct.</p>
