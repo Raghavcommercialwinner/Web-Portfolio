@@ -61,12 +61,11 @@ Web-Portfolio/
 <h2>📸 Screenshots</h2>
 
 <blockquote>
-Add your screenshots here (e.g., home page, skills pop-up, project modal)
 <img src="https://github.com/user-attachments/assets/2d3b7f54-2349-4e4c-9792-3b21c289842b" />
-![Screenshot 2025-04-10 194838](https://github.com/user-attachments/assets/547d2e8e-65a2-4cf2-9922-b0a828a03040)
-![Screenshot 2025-04-10 194920](https://github.com/user-attachments/assets/785e5ba0-80b7-4864-afb6-6b5ffcb56e55)
-![Screenshot 2025-04-10 194952](https://github.com/user-attachments/assets/ee5440ba-548f-414b-963d-a65ba5f06605)
-![Screenshot 2025-04-10 195018](https://github.com/user-attachments/assets/7a949c37-aec9-4664-83f4-b6cc59a4033e)
+<img src="https://github.com/user-attachments/assets/547d2e8e-65a2-4cf2-9922-b0a828a03040)" />
+<img src="https://github.com/user-attachments/assets/785e5ba0-80b7-4864-afb6-6b5ffcb56e55)" />
+<img src="https://github.com/user-attachments/assets/ee5440ba-548f-414b-963d-a65ba5f06605)" />
+<img src="https://github.com/user-attachments/assets/7a949c37-aec9-4664-83f4-b6cc59a4033e)" />
 </blockquote>
 
 <h2>🧠 Inspiration</h2>
